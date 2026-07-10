@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi I'm Shraddha👋
 
-<!--
-**SJani1988/SJani1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm self-taught data analyst with a background of Pharmacy and NHS Healthcare- now building impactful projects in Excel, PowerBI, PowerQuery and DAX.
 
-Here are some ideas to get you started:
+## Tools I work with
+Power BI Desktop
+Power Query
+DAX
+Microsoft Excel
+Data Visualisation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+NHS RTT Waiting List Performance Dashboard – April 2026
+
+## Currently Learning
+SQL
+
+## Let's connect!
+linkedin.com/in/shraddha-vyas15

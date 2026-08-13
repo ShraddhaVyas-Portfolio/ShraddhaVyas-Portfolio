@@ -14,8 +14,9 @@ NHS RTT Waiting List Performance Dashboard – April 2026 (https://github.com/SJ
 
 NHS A&E PERFORMANCE DASHBOARD- June 2026 (https://github.com/ShraddhaVyas-Portfolio/nhs-ae-performance-dashboard)
 
+Iris Classifier AI project (https://github.com/ShraddhaVyas-Portfolio/iris-classifier)
 ## Currently Learning
-SQL
+AI engineering
 
 ## Let's connect!
 linkedin.com/in/shraddha-vyas15

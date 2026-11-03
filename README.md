@@ -1,6 +1,6 @@
 ## Hi I'm Shraddha👋
 
-Healthcare professional with 10+ years of experience across pharmacy, NHS operations, regulatory affairs, and service improvement.
+Healthcare professional with 10+ years of experience across pharmacy, NHS operations, and service improvement.
 
 Currently building expertise in:
 
@@ -31,6 +31,8 @@ NHS A&E PERFORMANCE DASHBOARD- June 2026 (https://github.com/ShraddhaVyas-Portfo
 Iris Classifier AI project (https://github.com/ShraddhaVyas-Portfolio/iris-classifier)
 
 medical-insurance-analysis (https://github.com/ShraddhaVyas-Portfolio/medical-insurance-analysis)
+
+Healthcare No-Show Analysis (https://github.com/ShraddhaVyas-Portfolio/healthcare-no-show-analysis)
 
 ## Currently Learning
 AI engineering

@@ -22,6 +22,7 @@ Python
 Pandas
 Data Analysis
 Jupyter Notebook
+Visual Studio code
 
 ## My Projects
 NHS RTT Waiting List Performance Dashboard – April 2026 (https://github.com/SJani1988/NHS-RTT-Waiting-List-PowerBI-Dashboard)

@@ -1,13 +1,27 @@
 ## Hi I'm Shraddha👋
 
-I'm self-taught data analyst with a background of Pharmacy and NHS Healthcare- now building impactful projects in Excel, PowerBI, PowerQuery and DAX.
+Healthcare professional with 10+ years of experience across pharmacy, NHS operations, regulatory affairs, and service improvement.
 
-## Tools I work with
+Currently building expertise in:
+
+Python
+SQL
+Power BI
+Data Analytics
+Business Intelligence
+Machine Learning
+
+
+## Skills I built
 Power BI Desktop
 Power Query
 DAX
 Microsoft Excel
 Data Visualisation
+Python
+Pandas
+Data Analysis
+Jupyter Notebook
 
 ## My Projects
 NHS RTT Waiting List Performance Dashboard – April 2026 (https://github.com/SJani1988/NHS-RTT-Waiting-List-PowerBI-Dashboard)
@@ -15,6 +29,9 @@ NHS RTT Waiting List Performance Dashboard – April 2026 (https://github.com/SJ
 NHS A&E PERFORMANCE DASHBOARD- June 2026 (https://github.com/ShraddhaVyas-Portfolio/nhs-ae-performance-dashboard)
 
 Iris Classifier AI project (https://github.com/ShraddhaVyas-Portfolio/iris-classifier)
+
+medical-insurance-analysis (https://github.com/ShraddhaVyas-Portfolio/medical-insurance-analysis)
+
 ## Currently Learning
 AI engineering
 

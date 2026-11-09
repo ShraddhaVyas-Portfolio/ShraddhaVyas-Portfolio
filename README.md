@@ -35,6 +35,8 @@ medical-insurance-analysis (https://github.com/ShraddhaVyas-Portfolio/medical-in
 
 Healthcare No-Show Analysis (https://github.com/ShraddhaVyas-Portfolio/healthcare-no-show-analysis)
 
+Obesity Prediction and Feature Selection (https://github.com/ShraddhaVyas-Portfolio/obesity-prediction-feature-selection/tree/main)
+
 ## Currently Learning
 AI engineering
 

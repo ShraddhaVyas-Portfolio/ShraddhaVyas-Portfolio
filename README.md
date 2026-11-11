@@ -37,6 +37,8 @@ Healthcare No-Show Analysis (https://github.com/ShraddhaVyas-Portfolio/healthcar
 
 Obesity Prediction and Feature Selection (https://github.com/ShraddhaVyas-Portfolio/obesity-prediction-feature-selection/tree/main)
 
+Raisin Classification with Hyperparameter Tuning (https://github.com/ShraddhaVyas-Portfolio/raisin-classification-hyperparameter-tuning)
+
 ## Currently Learning
 AI engineering
 

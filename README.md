@@ -39,6 +39,8 @@ Obesity Prediction and Feature Selection (https://github.com/ShraddhaVyas-Portfo
 
 Raisin Classification with Hyperparameter Tuning (https://github.com/ShraddhaVyas-Portfolio/raisin-classification-hyperparameter-tuning)
 
+Breast Cancer Classification Using Machine Learning (https://github.com/ShraddhaVyas-Portfolio/breast-cancer-ml-project)
+
 ## Currently Learning
 AI engineering
 

@@ -41,6 +41,8 @@ Raisin Classification with Hyperparameter Tuning (https://github.com/ShraddhaVya
 
 Breast Cancer Classification Using Machine Learning (https://github.com/ShraddhaVyas-Portfolio/breast-cancer-ml-project)
 
+AI-Assisted Analysis of NHS Workforce Statistics Using ChatGPT and Python (https://github.com/ShraddhaVyas-Portfolio/nhs-workforce-chatgpt-analysis)
+
 ## Currently Learning
 AI engineering
 

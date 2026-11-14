@@ -43,6 +43,8 @@ Breast Cancer Classification Using Machine Learning (https://github.com/Shraddha
 
 AI-Assisted Analysis of NHS Workforce Statistics Using ChatGPT and Python (https://github.com/ShraddhaVyas-Portfolio/nhs-workforce-chatgpt-analysis)
 
+forest-cover-type-classification  (https://github.com/ShraddhaVyas-Portfolio/forest-cover-type-classification)
+
 ## Currently Learning
 AI engineering
 

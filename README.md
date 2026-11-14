@@ -45,6 +45,8 @@ AI-Assisted Analysis of NHS Workforce Statistics Using ChatGPT and Python (https
 
 forest-cover-type-classification  (https://github.com/ShraddhaVyas-Portfolio/forest-cover-type-classification)
 
+SMS Text Analysis Using Natural Language Processing (https://github.com/ShraddhaVyas-Portfolio/sms-text-analysis-nlp)
+
 ## Currently Learning
 AI engineering
 

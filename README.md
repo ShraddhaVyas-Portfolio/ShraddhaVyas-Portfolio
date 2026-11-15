@@ -47,6 +47,8 @@ forest-cover-type-classification  (https://github.com/ShraddhaVyas-Portfolio/for
 
 SMS Text Analysis Using Natural Language Processing (https://github.com/ShraddhaVyas-Portfolio/sms-text-analysis-nlp)
 
+GPT-style Transformer model from scratch using PyTorch! (https://github.com/ShraddhaVyas-Portfolio/mini-gpt-pytorch)
+
 ## Currently Learning
 AI engineering
 

@@ -1,56 +1,47 @@
-## Hi I'm Shraddha👋
+Hi, I'm Shraddha Vyas 👋
 
-Healthcare professional with 15+ years of experience across pharmacy, NHS operations, and service improvement.
+AI, Data Analytics and Cloud Computing enthusiast transitioning into technology.
+16 years experience in Healthcare 
 
-Currently building expertise in:
-
-Python
-SQL
-Power BI
-Data Analytics
-Business Intelligence
+Current Focus
+AWS AI Practitioner
+Generative AI
 Machine Learning
+Power BI
+Healthcare Analytics
 
+Featured Projects
 
-## Skills I built
-Power BI Desktop
-Power Query
-DAX
-Microsoft Excel
-Data Visualisation
-Python
-Pandas
-Data Analysis
-Jupyter Notebook
-Visual Studio code
+🤖 Mini GPT from Scratch
 
-## My Projects
-NHS RTT Waiting List Performance Dashboard – April 2026 (https://github.com/SJani1988/NHS-RTT-Waiting-List-PowerBI-Dashboard)
+-Built a transformer-based language model using PyTorch.
 
-NHS A&E PERFORMANCE DASHBOARD- June 2026 (https://github.com/ShraddhaVyas-Portfolio/nhs-ae-performance-dashboard)
+Skills:
 
-Iris Classifier AI project (https://github.com/ShraddhaVyas-Portfolio/iris-classifier)
+Token Embeddings
+Multi-Head Attention
+Transformer Blocks
+Language Modelling
 
-medical-insurance-analysis (https://github.com/ShraddhaVyas-Portfolio/medical-insurance-analysis)
+📊 NHS RTT Waiting List Dashboard
 
-Healthcare No-Show Analysis (https://github.com/ShraddhaVyas-Portfolio/healthcare-no-show-analysis)
+-Power BI dashboard analysing NHS referral-to-treatment waiting times.
 
-Obesity Prediction and Feature Selection (https://github.com/ShraddhaVyas-Portfolio/obesity-prediction-feature-selection/tree/main)
+🧠 Breast Cancer Prediction
 
-Raisin Classification with Hyperparameter Tuning (https://github.com/ShraddhaVyas-Portfolio/raisin-classification-hyperparameter-tuning)
+-Machine Learning classification model built using Python and Scikit-Learn.
 
-Breast Cancer Classification Using Machine Learning (https://github.com/ShraddhaVyas-Portfolio/breast-cancer-ml-project)
+🏥 Healthcare No Show Analysis
 
-AI-Assisted Analysis of NHS Workforce Statistics Using ChatGPT and Python (https://github.com/ShraddhaVyas-Portfolio/nhs-workforce-chatgpt-analysis)
+-Predictive analysis of patient appointment attendance patterns.
 
-forest-cover-type-classification  (https://github.com/ShraddhaVyas-Portfolio/forest-cover-type-classification)
+Certifications
+AWS Certified AI Practitioner (In Progress)
+IT Career Switch AI & Cloud Programme
+Technical Skills
 
-SMS Text Analysis Using Natural Language Processing (https://github.com/ShraddhaVyas-Portfolio/sms-text-analysis-nlp)
+Python | PyTorch | Scikit-Learn | Pandas | Power BI | SQL | AWS | Git | GitHub
 
-GPT-style Transformer model from scratch using PyTorch! (https://github.com/ShraddhaVyas-Portfolio/mini-gpt-pytorch)
+Connect With Me
 
-## Currently Learning
-AI engineering
-
-## Let's connect!
-linkedin.com/in/shraddha-vyas15
+LinkedIn: https://www.linkedin.com/in/shraddha-vyas15/  GitHub: https://github.com/ShraddhaVyas-Portfolio/ShraddhaVyas-Portfolio/edit/main/README.md

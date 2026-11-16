@@ -43,5 +43,7 @@ Technical Skills
 Python | PyTorch | Scikit-Learn | Pandas | Power BI | SQL | AWS | Git | GitHub
 
 Connect With Me
+LinkedIn: https://www.linkedin.com/in/shraddha-vyas15/
 
-LinkedIn: https://www.linkedin.com/in/shraddha-vyas15/  GitHub: https://github.com/ShraddhaVyas-Portfolio/ShraddhaVyas-Portfolio/edit/main/README.md
+GitHub: https://github.com/ShraddhaVyas-Portfolio
+
